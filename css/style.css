@@ -1,12 +1,12 @@
 .main-navbar {
   width: 100%;
-  height: 10%;
+  height: 15%;
   background-color: red;
-  position: fixed;
+  position: relative;
   top: 0;
   outline-style: solid;
   outline-width: 5px;
-  outline-color: white;
+  outline-color: white
 }
 
 .navbar {
@@ -20,6 +20,8 @@
 .navbar li {
   float: left;
   margin: auto 40px;
+  list-style:none;
+  color: white;
 }
 
 .navbar li a {
@@ -37,7 +39,7 @@
 } 
 
 
-h1{
+h2{
 	color:red;
 	
 }
@@ -48,24 +50,17 @@ h3{
 	
 }
 
-body{
+.page1{
 	background-color: pink;
+	width:100%;
 	
 }
-
-
-
-
-.on-page {
-  text-decoration: underline;
-}
-
-
 
 .contact{
 	width: 800px;
 	margin: 9% 22% 0% 22%;
 	text-align: center;
+	color: brown;
 }
 
 .education{
