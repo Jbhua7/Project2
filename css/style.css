@@ -1,0 +1,160 @@
+.main-navbar {
+  width: 100%;
+  height: 10%;
+  background-color: blue;
+  position: fixed;
+  top: 0;
+  outline-style: solid;
+  outline-width: 5px;
+  outline-color: white;
+}
+
+.navbar {
+  width: 100%;
+  list-style-type: none;
+  margin: 0 15%;
+  padding: 0;
+  overflow: hidden;
+}
+
+.navbar li {
+  float: left;
+  margin: auto 40px;
+}
+
+.navbar li a {
+  display: block;
+  text-decoration: none;
+  color: brown;
+  font-weight: bold;
+  text-align: center;
+  padding: 20px 20px 20px 20px;
+  font-size: 2.5em; 
+
+
+.navbar li a:hover {
+  color: brown;
+} 
+
+
+h1{
+	color:red;
+	
+}
+
+
+h3{
+	color: orange;
+	
+}
+
+body{
+	background-color: pink;
+	
+}
+
+
+
+
+.on-page {
+  text-decoration: underline;
+}
+
+
+
+.contact{
+	width: 800px;
+	margin: 9% 22% 0% 22%;
+	text-align: center;
+}
+
+.education{
+  width: 800px;
+  margin: 9% 22% 0% 22%;
+  text-align: center;
+}
+
+.programming{
+  width: 800px;
+  margin: 9% 22% 0% 22%;
+  text-align: center;
+	
+}
+
+.language{
+  width: 800px;
+  margin: 9% 22% 0% 22%;
+  text-align: center;
+		
+}
+
+.awards{
+  width: 800px;
+  margin: 9% 22% 0% 22%;
+  text-align: center;
+	
+}
+
+.ecs{
+  width: 500px;
+  margin: 9% 22% 0% 22%;
+  text-align: center;
+}
+
+.skills{
+  width: 600px;
+  margin: 9% 22% 0% 22%;
+  text-align: center;
+}
+
+
+
+
+.page2{
+	background-color: navy;
+}
+
+.header{
+  width: 800px;
+  margin: 9% 22% 0% 22%;
+  text-align: center;
+}
+
+
+.info{
+  width: 800px;
+  margin: 9% 22% 0% 22%;
+  text-align: center;
+	
+}
+
+.summary{
+  width: 800px;
+  margin: 9% 22% 0% 22%;
+  text-align: center;
+  color: green;
+}
+
+.ttd{
+  width: 800px;
+  margin: 9% 22% 0% 22%;
+  text-align: center;
+	
+}
+
+
+
+
+.page3{
+	background-color: beige;
+	
+}
+
+
+.raccoon{
+  width: 800px;
+  margin: 9% 22% 0% 22%;
+  text-align: center;
+  color: green;
+	
+}
