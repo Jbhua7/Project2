@@ -10,7 +10,7 @@
 }
 
 .navbar {
-  width: 100%;
+ 
   list-style-type: none;
   margin: 0 15%;
   padding: 0;
@@ -32,7 +32,7 @@
   text-align: center;
   padding: 20px 20px 20px 20px;
   font-size: 2.5em; 
-
+}
 
 .navbar li a:hover {
   color: brown;
@@ -61,45 +61,48 @@ h3{
 	margin: 9% 22% 0% 22%;
 	text-align: center;
 	color: brown;
+	font-size: 2rem;
 }
 
 .education{
   width: 800px;
   margin: 9% 22% 0% 22%;
   text-align: center;
+  font-size: 1.5rem;
 }
 
 .programming{
   width: 800px;
   margin: 9% 22% 0% 22%;
   text-align: center;
-	
+  font-size: 1.5rem;
 }
 
 .language{
   width: 800px;
   margin: 9% 22% 0% 22%;
   text-align: center;
-		
+  font-size: 1.5rem;
 }
-
 .awards{
   width: 800px;
   margin: 9% 22% 0% 22%;
   text-align: center;
-	
+  font-size: 1.5rem;
 }
 
 .ecs{
   width: 500px;
   margin: 9% 22% 0% 22%;
   text-align: center;
+  font-size: 1.5rem;
 }
 
 .skills{
   width: 600px;
   margin: 9% 22% 0% 22%;
   text-align: center;
+  font-size: 1.5rem;
 }
 
 
@@ -113,6 +116,7 @@ h3{
   width: 800px;
   margin: 9% 22% 0% 22%;
   text-align: center;
+  font-size: 2rem;
 }
 
 
@@ -120,7 +124,8 @@ h3{
   width: 800px;
   margin: 9% 22% 0% 22%;
   text-align: center;
-	
+  color: green; 
+   font-size: 1.5rem;
 }
 
 .summary{
@@ -128,13 +133,15 @@ h3{
   margin: 9% 22% 0% 22%;
   text-align: center;
   color: green;
+   font-size: 1.5rem;
 }
 
 .ttd{
   width: 800px;
   margin: 9% 22% 0% 22%;
   text-align: center;
-	
+  color: green;
+  font-size: 1.5rem;
 }
 
 
